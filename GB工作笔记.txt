@@ -1,0 +1,44 @@
+UAT2环境H5、网页端登录账号:
+gina03/Gina1234
+
+UAT2环境后台管理系统登录地址:
+https://u2backend.gbgame.net/login   
+账号：JISHU1   
+密码：Gina1234
+
+15688889999
+
+#GB-jira登陆地址
+https://www.gbjira888.com
+
+#GB-jira 用户
+Singer T7&VOWPu1#qY62n^ohu^2CtQ&qo6@PyO
+
+UAT2环境访问地址：
+https://u2www.gbty5329.com/
+
+UAT环境的管理系统登录地址：
+michaell
+user1234
+
+生产环境需求优化/发版确认流程 http://doc.dz.com/x/ZEBDAg
+运维发版表单地址 http://doc.dz.com/x/1Bs4Ag
+
+正在解决的问题的清单:
+https://docs.google.com/spreadsheets/d/1w_DLFHgUFOF7HaioJzT5dIc96yVupvqqUpbHwaw3sHA/edit?gid=0#gid=0
+
+新版的需求:
+https://l6bema.axshare.com/?code=fb02d6576f9b0e29069b8d9cdd40de9d&id=p2yzye&p=%E6%B3%A8%E5%86%8C&g=1
+
+需求分配:
+https://docs.google.com/spreadsheets/d/1M_sTvNP8hW2Q6tTf227tp5DfGrRonHTFNHRiInfDTpU/edit?gid=0#gid=0
+
+UAT2环境H5:
+https://u2h5.gbty5329.com
+
+
+
+
+
+
+
