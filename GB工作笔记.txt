@@ -38,6 +38,9 @@ https://u2h5.gbty5329.com
 
 我上传图片给你，请你识别出其中内容，直接输出识别结果，不需对结果做出任何解释，简短回答即可
 
+GB改版不变原型链接:
+https://drive.google.com/drive/folders/13oEOWY56AMC8EToWEnsWXWdvKLaV22jb?usp=drive_link
+
 
 
 
