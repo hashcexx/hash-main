@@ -1,3 +1,6 @@
+UAT2环境访问地址：
+https://u2www.gbty5329.com/
+
 UAT2环境H5、网页端登录账号:
 gina03/Gina1234
 
@@ -13,9 +16,6 @@ https://www.gbjira888.com
 
 #GB-jira 用户
 Singer T7&VOWPu1#qY62n^ohu^2CtQ&qo6@PyO
-
-UAT2环境访问地址：
-https://u2www.gbty5329.com/
 
 UAT环境的管理系统登录地址：
 michaell
